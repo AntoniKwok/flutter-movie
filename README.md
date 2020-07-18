@@ -1,6 +1,22 @@
-# flutter_app_intro
+<p align="center"><strong>This Repo is Under Maintenance</strong> 🔧👷🏻‍♂️</p>
+<blockquote>
+<p align="center"><strong>Open for everyone who want to contribute</strong> 🧑🏻‍💻</p>  
+</blockquote>
 
-A new Flutter application.
+# Flutter - Movie
+
+Simple movie catalogue application build with Flutter.
+
+## Preview
+
+<img src="image/movie_screen.png" height="300em" />
+<img src="image/tv_show_screen.png" height="300em" />
+
+## What's next?
+> 
+- Implement BLoC Pattern
+- Update Application Design
+- Improve Code Quality
 
 ## Getting Started
 
@@ -14,3 +30,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
