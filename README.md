@@ -8,9 +8,10 @@
 Simple movie catalogue application build with Flutter.
 
 ## Preview
-
-<img src="image/movie_screen.png" height="300em" />
-<img src="image/tv_show_screen.png" height="300em" />
+<div>
+  <img src="image/movie_screen.png" height="500em"/>
+  <img src="image/tv_show_screen.png" height="500em"/>
+</div>
 
 ## What's next?
 > 
